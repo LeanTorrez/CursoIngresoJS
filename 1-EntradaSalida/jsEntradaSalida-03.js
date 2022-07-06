@@ -5,7 +5,7 @@ function mostrar()
 {
 	var nombreIngresado;
 	nombreIngresado=txtIdNombre.value;
-	alert("ok");
+	alert("1+1=2");
 
 }
 
